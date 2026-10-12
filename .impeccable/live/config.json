@@ -1,0 +1,8 @@
+{
+  "files": [
+    "app/layout.jsx"
+  ],
+  "insertBefore": "</body>",
+  "commentSyntax": "jsx",
+  "cspChecked": true
+}
